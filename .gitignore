@@ -26,3 +26,13 @@ __pycache__/
 # --- System ---
 .DS_Store
 Thumbs.db
+
+# --- Large datasets and models ---
+Data/
+checkpoints/
+*.ckpt
+*.dll
+*.json
+
+# --- Virtual environments ---
+new_magenta_env/

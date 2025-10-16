@@ -1,0 +1,28 @@
+# --- Virtual envs ---
+new_magenta_env/
+.venv/
+env/
+venv/
+
+# --- Outputs ---
+outputs/
+output/
+*.wav
+*.mid
+*.pkl
+*.json
+*.txt
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# --- IDE ---
+.vscode/
+.idea/
+
+# --- System ---
+.DS_Store
+Thumbs.db

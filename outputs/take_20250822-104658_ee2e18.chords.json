@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.75,
+    "end": 3.6,
+    "label": "E"
+  },
+  {
+    "start": 3.6,
+    "end": 5.7,
+    "label": "G"
+  },
+  {
+    "start": 5.7,
+    "end": 7.8,
+    "label": "F"
+  },
+  {
+    "start": 7.8,
+    "end": 10.35,
+    "label": "F#"
+  },
+  {
+    "start": 10.35,
+    "end": 12.15,
+    "label": "A"
+  },
+  {
+    "start": 12.15,
+    "end": 13.8,
+    "label": "G"
+  }
+]

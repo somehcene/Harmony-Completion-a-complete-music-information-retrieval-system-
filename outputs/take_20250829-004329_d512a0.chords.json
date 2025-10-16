@@ -1,0 +1,27 @@
+[
+  {
+    "start": 1.5,
+    "end": 3.6,
+    "label": "C"
+  },
+  {
+    "start": 3.6,
+    "end": 7.35,
+    "label": "G"
+  },
+  {
+    "start": 7.35,
+    "end": 10.65,
+    "label": "A"
+  },
+  {
+    "start": 10.65,
+    "end": 12.9,
+    "label": "G"
+  },
+  {
+    "start": 12.9,
+    "end": 15.3,
+    "label": "D"
+  }
+]
